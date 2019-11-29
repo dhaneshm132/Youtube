@@ -8,3 +8,7 @@ In Laptop
 In Mobile (Portrait)
 
 ![youtube_mobile](https://user-images.githubusercontent.com/46326443/69843995-2eeb8900-1290-11ea-89a7-f440d9ba72f1.PNG)
+
+In Mobile (Landscape)
+
+![youtube_landscape](https://user-images.githubusercontent.com/46326443/69844052-73772480-1290-11ea-946f-1ce8346fd195.PNG)
